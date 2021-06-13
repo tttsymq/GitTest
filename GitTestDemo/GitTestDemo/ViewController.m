@@ -18,7 +18,7 @@
     // Do any additional setup after loading the view.
     
     self.view.backgroundColor = UIColor.cyanColor;
-    NSLog(@"hello world!! who am i? ok");
+    NSLog(@"hello world!! who am i? ok ggh01");
 }
 
 
